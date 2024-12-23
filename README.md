@@ -2,7 +2,7 @@
 
 Bu proje, Öğrenci İşleri Daire Başkanlığı için kural tabanlı bir chatbot geliştirilmesini hedeflemektedir. Chatbot, öğrencilerin sıkça sorulan sorularına hızlı ve doğru yanıtlar verebilmeleri için tasarlanmıştır.
 
-![Chatbot Arayüzü](images/chatbot_interface.png)
+![Chatbot Arayüzü](397936504-ec5652f4-3d25-4e37-a39f-63093865aafc.png)
 
 ## 💡 Projenin Amacı
 Bu chatbot, öğrencilerin idari işlemleri hakkında bilgi almasını kolaylaştırmayı ve Öğrenci İşleri Daire Başkanlığı'nın iş yükünü hafifletmeyi amaçlamaktadır. Proje, kullanıcı dostu bir arayüz ve hızlı yanıt mekanizması ile hizmet sunmayı hedefler.
